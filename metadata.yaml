@@ -1,0 +1,29 @@
+_repo: A-Casa-dos-Fantasmas---Volume-II--13-Episodio-do-Tempo-dos-Francezes_26605
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Silva, Luiz Augusto Rebello da
+    aliases:
+    - Silva, Luis Augusto Rebelo da
+    - Silva, Luís Augusto Rebelo da
+    birthdate: 1822
+    deathdate: 1871
+    gutenberg_agent_id: '31253'
+    url: http://www.gutenberg.org/2009/agents/31253
+description: ''
+gutenberg_issued: '2008-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26605'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Portugal -- History -- Maria I, 1777-1816 -- Fiction'
+- !lcc 'PQ'
+title: "A Casa dos Fantasmas - Volume II\r\nEpisodio do Tempo dos Francezes"
+url: http://www.gutenberg.org/ebooks/26605
